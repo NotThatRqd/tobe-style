@@ -1,2 +1,3 @@
 # tobe-style
-A small java style guide for myself
+
+Pronounced like the name "toby"
